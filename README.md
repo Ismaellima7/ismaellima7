@@ -11,6 +11,7 @@
 💻 Working as a Software Developer with Django at the Institution  
 🚀 I'm looking for opportunities in the technology market to apply my skills as a software developer, delivering efficient, high-quality solutions.
 
+[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=31ow7x5rj3vjvmd7afluobuf2p4e&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false)](https://github.com/kittinan/spotify-github-profile)
 
 ---
 
