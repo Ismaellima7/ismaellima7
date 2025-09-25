@@ -7,9 +7,9 @@
 ---
 
 👋🏼 I'm **Ismael Lima**  
-👨‍🎓 Study at the Bahia Federal Institute of Education, Science and Technology - Senhor do Bonfim Campus  
-💻 Working as a Software Developer with Django at the Institution  
-🚀 I'm looking for opportunities in the technology market to apply my skills as a software developer, delivering efficient, high-quality solutions.
+👨‍🎓 Student at the **Bahia Federal Institute of Education, Science and Technology** – Senhor do Bonfim Campus  
+💻 Currently working as an Intern **Software Developer (Django)** at the Institution  
+🚀 Seeking opportunities in the technology market to apply my skills, delivering **efficient and high-quality solutions**
 
 ---
 
