@@ -34,3 +34,4 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ismael-lima-505bba331?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
 
 ![Ismaellima7 GitHub stats](https://github-readme-stats.vercel.app/api?username=ismaellima7&show_icons=true&theme=transparent)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ismaellima7&show_icons=true&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
