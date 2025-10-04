@@ -24,9 +24,9 @@
   </div>
 
 ---
-
+<!--
 [![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=31ow7x5rj3vjvmd7afluobuf2p4e&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
-
+-->
 ## 🌐 Get to know me more
 <!-- Links -->
 [![Youtube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@IsmaelLima-k9d)
